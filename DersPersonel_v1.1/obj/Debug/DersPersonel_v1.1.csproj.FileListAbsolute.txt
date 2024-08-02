@@ -1,0 +1,10 @@
+C:\Users\umuta\source\repos\DersPersonel_V1.1\bin\Debug\DersPersonel_v1.1.exe.config
+C:\Users\umuta\source\repos\DersPersonel_V1.1\bin\Debug\DersPersonel_v1.1.exe
+C:\Users\umuta\source\repos\DersPersonel_V1.1\bin\Debug\DersPersonel_v1.1.pdb
+C:\Users\umuta\source\repos\DersPersonel_V1.1\obj\Debug\DersPersonel_v1.1.csproj.AssemblyReference.cache
+C:\Users\umuta\source\repos\DersPersonel_V1.1\obj\Debug\DersPersonel_v1._1.Form1.resources
+C:\Users\umuta\source\repos\DersPersonel_V1.1\obj\Debug\DersPersonel_v1._1.Properties.Resources.resources
+C:\Users\umuta\source\repos\DersPersonel_V1.1\obj\Debug\DersPersonel_v1.1.csproj.GenerateResource.cache
+C:\Users\umuta\source\repos\DersPersonel_V1.1\obj\Debug\DersPersonel_v1.1.csproj.CoreCompileInputs.cache
+C:\Users\umuta\source\repos\DersPersonel_V1.1\obj\Debug\DersPersonel_v1.1.exe
+C:\Users\umuta\source\repos\DersPersonel_V1.1\obj\Debug\DersPersonel_v1.1.pdb
